@@ -248,7 +248,7 @@ https://wintv.fun/360/194/index.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://wintv.fun/360/195/index.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="đŸ’›|KhĂ­chđŸ“º HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/kzkbf3xc_htvcthuanviethd_296_168.webp",HTVC ThuĂ¢̀€n ViĂª̀£t
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="đŸ’›|KhĂ­chđŸ“º HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/kzkbf3xc_htvcthuanviethd_296_168.webp",HTVC Thuần Việt
 https://wintv.fun/360/13/index.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="đŸ’›|KhĂ­chđŸ“º HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/f1awhyku_htvcthuanviet_296_168.webp",HTVC Thuần Việt HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
